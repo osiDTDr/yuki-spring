@@ -1,8 +1,7 @@
 package com.hikari.spring.beans;
 
 /**
- * 用于bean的属性注入
- * @author yihua.huang@dianping.com
+ * Object to hold information and value for an individual bean property.
  */
 public class PropertyValue {
 

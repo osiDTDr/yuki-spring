@@ -1,8 +1,7 @@
 package com.hikari.spring.beans;
 
 /**
- * 从配置中读取BeanDefinition
- * @author yihua.huang@dianping.com
+ * Read BeanDefinition from configuration
  */
 public interface BeanDefinitionReader {
 

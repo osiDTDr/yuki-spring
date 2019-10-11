@@ -9,9 +9,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public abstract class AbstractBeanFactory implements BeanFactory {
 
     private Map<String, BeanDefinition> beanDefinitionMap = new ConcurrentHashMap<>();
